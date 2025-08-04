@@ -2,7 +2,7 @@ Traffic Violation Analytics Dashboard
 
 This Power BI project analyzes traffic violation patterns across Indian states to identify common violations, evaluate fine collections, and discover trends by time, location, and vehicle type.
 
-## 📁 Project Structure
+##  Project Structure
 
 Traffic-Violation-Analytics/
 │
