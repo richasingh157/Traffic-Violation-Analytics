@@ -104,4 +104,4 @@ Traffic-Violation-Analytics/
    Author
    Richa Singh
     [richasingh19072003@gmail.com]
-    [LinkedIn or GitHub Profile]
+    [ GitHub Profile](https://github.com/richasingh157]
