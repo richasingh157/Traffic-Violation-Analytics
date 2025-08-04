@@ -8,7 +8,7 @@ This Power BI dashboard presents a visual analysis of traffic violations across 
 
 ---
 
-📊 Dashboard Features
+ Dashboard Features
 
 1. **Violation Frequency Analysis**
 - **Bar Chart** displays how often each type of traffic violation occurs (e.g., Speeding, No Helmet, Signal Jumping).
@@ -56,5 +56,5 @@ This Power BI dashboard presents a visual analysis of traffic violations across 
 
 
 
-## dataset used
+
 
