@@ -58,16 +58,17 @@ Traffic-Violation-Analytics/
 ##  How to Run the Project
 
 1. **Clone the Repository:**
-   
-   git clone https://github.com/yourusername/Traffic-Violation-Analytics.git
 
- 2. **Open the Dashboard:
+   git clone:     https://github.com/richasingh157/Traffic-Violation-Analytics.git
+
+
+ 3. **Open the Dashboard:
 
      Navigate to dashboard/Traffic_Violation_Dashboard.pbix
 
      Open it in Power BI Desktop
 
-3. **Explore:
+4. **Explore:
 
     Use slicers on the left panel to filter the data
     
